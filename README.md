@@ -2,11 +2,11 @@
 The website of Horiseon Marketing 
 ## Description
 
-This is a website for Horiseon marketing. Changes made to make the website more accesible 
+This is a website for Horiseon marketing. Changes made to the html and css files to make the website more accesible.
 
 - Added site title 
 - Added alt tags to images and icons
-- Added semantic elements to the page: (nav>, header, section, aside, footer)
+- Added semantic elements to the page: (nav, header, section, aside, footer)
 - Made header elements sequential 
 
 
