@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/* colour of the background */
 body {
     background-color: #d9dcd6;
 }
 
+/* header font, background and colour */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +17,7 @@ body {
     color: #ffffff;
 }
 
+/* Header size and display type */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +26,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Ensures menu items displayed correctly and to the right  */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +52,8 @@ a {
 p {
     font-size: 16px;
 }
-
+/* 
+Large  background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +78,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Aside content displayed as box to the right */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +191,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer at bottom of page  */
 .footer {
     padding: 30px;
     clear: both;
